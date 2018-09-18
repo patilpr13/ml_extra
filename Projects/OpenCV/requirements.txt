@@ -1,0 +1,5 @@
+conda info opencv
+conda install -c conda-forge opencv
+
+optional- pip install opencv-python
+conda install -c opencv-contrib-python
